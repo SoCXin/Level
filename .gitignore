@@ -1,0 +1,9 @@
+*.pyc
+*.bin
+*.out
+*.hex
+*.log
+*.o
+~$*
+.pio/
+.vscode/
